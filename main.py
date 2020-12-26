@@ -5,7 +5,7 @@
 # Damit das Programm nutzbar ist, sollte Google Chrome auf deinem PC installiert sein
 # Zusätzlich benötigst du einen Chromedriver. Gehe dazu auf einen der folgenden Links und lade dir den für deinen Computer geeigneten Chromedriver herunter 
 # https://chromedriver.chromium.org/
-# https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.105/
+# https://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/
 # 
 # Solltest du Google Chrome bereits verwenden, prüfe bitte die Kompatibilität und Update entweder Google Chrome, oder suche nach einem passenden Chromedriver für dein Betriebssystem.
 #
